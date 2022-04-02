@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### I'm Interested in 
 - RxSwift
 - Combine
-- Architecture (MVVM-clean architecture, VIPER, MVP, Coordinator, Rxflow ..)
+- Architecture (MVVM-clean architecture, VIPER, MVP, Coordinator ..)
 - SwiftUI
 
 #### Main Project  
@@ -46,6 +46,4 @@ Here are some ideas to get you started:
 #### I usually solve algorithm    
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=spqjf12345)](https://solved.ac/spqjf12345)
 
-
-  
 
