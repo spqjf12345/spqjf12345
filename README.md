@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - SwiftUI
 
 #### Main Project  
-[수근수근](https://github.com/wispher-sugeun/sugeun-ios), [GDONG](https://github.com/gongddong/GDONG-front), [코차트](https://github.com/spqjf12345/Covid-Info_), [Inssajeon](https://github.com/spqjf12345/Inssajeon-newly-coined-word)
+[수근수근](https://github.com/wispher-sugeun/sugeun-ios), [GDONG](https://github.com/gongddong/GDONG-front), [코차트](https://github.com/spqjf12345/CoChart), [Inssajeon](https://github.com/spqjf12345/Inssajeon-newly-coined-word)
 
 #### Record what I learned in [Blog](https://jouureee.tistory.com)
 
