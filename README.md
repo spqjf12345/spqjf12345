@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### I'm Interested in 
 - RxSwift
 - Combine
-- Architecture (MVVM-clean architecture, VIPER, MVP, Coordinator ..)
+- Architecture (MVVM-clean architecture, ReactorKit, RIBs ..)
 - SwiftUI
 
 #### Main Project  
