@@ -1,31 +1,14 @@
 ### Hi I'm Jouureee
 
-<!--
-**spqjf12345/spqjf12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spqjf12345&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
 #### Growth oriented iOS Engineer 🍎
 
 #### I'm Interested in 
-- RxSwift
-- Combine
 - Architecture (MVVM-clean architecture, ReactorKit, RIBs ..)
+- Design Pattern 📝
 - SwiftUI
 
 #### Main Project  
-[수근수근](https://github.com/wispher-sugeun/sugeun-ios), [GDONG](https://github.com/gongddong/GDONG-front), [코차트](https://github.com/spqjf12345/CoChart), [Inssajeon](https://github.com/spqjf12345/Inssajeon-newly-coined-word)
+[수근수근](https://github.com/wispher-sugeun/sugeun-ios), [GDONG](https://github.com/gongddong/GDONG-front), [코차트](https://github.com/spqjf12345/CoChart), [Inssajeon](https://github.com/spqjf12345/Inssajeon-newly-coined-word), [와플🧇](https://github.com/CMC-Groute/Waffle-iOS)
 
 #### Record what I learned in [Blog](https://jouureee.tistory.com)
 
